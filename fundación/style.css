@@ -1,0 +1,36 @@
+li {list-style:none}
+
+.row{
+    border: none;
+    background-color: rgba(16,120,137,.4);
+}
+
+#primeracol{
+    background-color: #004EB2;
+}
+#segundacol{
+    border-left: 1px solid white;
+    background-color: #004EB2;
+}
+
+#fecha{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#titulouno {
+    border-bottom: 1px solid white;
+    
+}
+
+#titulodos {
+    border-right: 1px solid white;
+}
+
+div{
+    border:none;
+}
+
+body{
+    background-image:url("img/cocina.jpg"); 
+}
+
